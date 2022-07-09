@@ -1,3 +1,3 @@
-# Hostel Management System Project
+# Mr. Sumeet
 
-This is an open source project by Lama InfoTech Pvt Ltd
+Please work on this branch (Create your beautiful design, write your code, and submit a pull request.
